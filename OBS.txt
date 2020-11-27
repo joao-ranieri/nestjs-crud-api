@@ -1,0 +1,6 @@
+instalar:
+
+    npm install --save reflect-metadata rxjs
+    npm install --save rxjs
+    npm install --save-dev nodemon ts-node
+    npm install --save bcrypt @types/bcrypt 
